@@ -39,5 +39,7 @@ German, English
 
 ### Relavant Values for seb2 
 browserExamKey
+
 browserURLSalt 
+
 seb.url
