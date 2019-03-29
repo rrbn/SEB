@@ -36,3 +36,10 @@ German, English
 5. Press the "Actions" button and select "Activate" to activate the plugin.
 
 6. If you want to use object specific keys and have activated the corresponding option, users with write rights on a test can set the keys directly in the corresponding tab in the test object. This key is only valid for this test, so a direct static link to the test object (to be found in the info tab) MUST be set in the SEB config file. It is possible to show an User Agreement after login.
+
+### Relavant Values for seb2 (https://github.com/eqsoft/seb2)
+browserExamKey
+
+browserURLSalt
+
+seb.url
